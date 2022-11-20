@@ -1,8 +1,8 @@
 # Notes_MAD_Prac_11_20012011169
 OUTPUT:
 
-![P11_1](https://user-images.githubusercontent.com/78149426/202892906-b3a26307-a1f8-4e36-96ab-9b4cfe62b5f8.jpg)
-![p11_2](https://user-images.githubusercontent.com/78149426/202892912-1fb5834d-9135-4910-a240-b7387821d40c.jpg)
+![image](https://user-images.githubusercontent.com/78149426/202892980-f2ad2e2a-5b96-469f-b4ea-5d73fd20808a.png)
+![image](https://user-images.githubusercontent.com/78149426/202892991-2e915f5b-baa5-47a1-a098-440dedad7bc4.png)
+![image](https://user-images.githubusercontent.com/78149426/202893002-762ac559-854c-4c40-bc3e-2ea8f14ed176.png)
 
-![P11_3](https://user-images.githubusercontent.com/78149426/202892916-f2b793f2-7555-4c0f-af78-77c535c6b2d2.jpg)
-![P11_4](https://user-images.githubusercontent.com/78149426/202892920-cedd5e3b-cb7e-48ab-905a-67d7912e80d1.jpeg)
+
